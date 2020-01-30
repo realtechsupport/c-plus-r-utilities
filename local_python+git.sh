@@ -15,7 +15,7 @@ sudo apt-get install python3-venv -y
 sudo apt-get install ffmpeg -y
 sudo apt-get install sox -y
 sudo apt-get install nginx -y
-git clone https://realtechsupport:1GsaintandreG1@github.com/realtechsupport/c_plus_r.git
+git clone https://realtechsupport:1GsaintandreG1@github.com/realtechsupport/c-plus-r-local.git
 
 
 
