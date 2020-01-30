@@ -5,7 +5,7 @@
 # RTS, sept 2019
 #-------------------------------------------
 clear
-echo "WELCOME - basics for the GCP install "
+echo "WELCOME - basics for the local C+R install "
 
 sudo apt-get update
 sudo apt-get upgrade -y
